@@ -24,7 +24,7 @@ story naming the news service that reported it.
 | big | two more stories that led the wires, set medium |
 | grid | 20 cards, four across and five down: region, headline, source |
 | briefs | 43 more stories in three ruled columns, each line region code, story, source |
-| footer | the 21 news services the page drew on |
+| footer | the 18 news services the page drew on |
 
 Every drawn line is checked as it is set: the program reports any headline that would
 not fit its column, any story that would not reach the page, and the lowest inked row,
